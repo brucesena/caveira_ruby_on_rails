@@ -5,4 +5,4 @@ This is just a squeletum for a Ruby On Rails project that will use:
     Sidekiq
 
 reference site 
-    https://salzam.com/create-and-dockerize-rails-application-with-mysql-and-sidekiq/    
+    https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
